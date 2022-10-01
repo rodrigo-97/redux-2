@@ -1,0 +1,29 @@
+.f-content {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.controls {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.row {
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+
+  align-items: baseline;
+}
+
+.b-submit {
+  margin-top: 20px;
+  width: 250px;
+}
+
+small {
+  color: rgb(223, 49, 49);
+}
